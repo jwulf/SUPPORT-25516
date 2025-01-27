@@ -1,0 +1,24 @@
+{
+  "name": "support-25516",
+  "version": "1.0.0",
+  "description": "Reproducer for SUPPORT-25516",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jwulf/SUPPORT-25516.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/jwulf/SUPPORT-25516/issues"
+  },
+  "homepage": "https://github.com/jwulf/SUPPORT-25516#readme",
+  "dependencies": {
+    "@camunda8/sdk": "^8.6.21"
+  }
+}
